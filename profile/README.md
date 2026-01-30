@@ -8,5 +8,4 @@
 Yanix Launcher:Play Yandere Simulator in Linux.
 
 NFDUR and NFDURH:Providing packages that Debian don't ship
-# Contact Email:
-nextferret@proton.me
+NextFerretOS:the future is not immutable
