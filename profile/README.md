@@ -4,8 +4,9 @@
 # NextFerret
  We are NextFerret. An open organization dedicated to building accessible tools for everyone.
  Join us in shaping the next generation of software.
-# Projects
-Yanix Launcher:Play Yandere Simulator in Linux.
 
+Projects
+---
 NFDUR and NFDURH:Providing packages that Debian don't ship
+
 NextFerretOS:the future is not immutable
