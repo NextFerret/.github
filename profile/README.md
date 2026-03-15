@@ -9,7 +9,7 @@ Projects
 ---
 NFDUR and NFDURH:Providing packages that Debian don't ship
 
-NextFerretOS:the future is not immutable
+NextFerret Linux:the future is not immutable
 
 # Discord
 https://discord.gg/mAWjHH9g7q
