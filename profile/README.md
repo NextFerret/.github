@@ -11,4 +11,4 @@ NFDUR and NFDURH:Providing packages that Debian don't ship
 Arvor Linux:the future is not immutable
 
 # Discord
-https://discord.gg/mAWjHH9g7q
+https://discord.gg/zQaGrHNgxB
